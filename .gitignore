@@ -1,0 +1,2 @@
+*.env
+Api/__pycache__/
